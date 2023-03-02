@@ -19,13 +19,13 @@
 | Enterprise 2016 LTSB N |	QFFDN-GRT3P-VKWWX-X7T3R-8B639 |
 
 
-# 1 open cmd as admin and run :
+## 1 open cmd as admin and run :
     slmgr /ipk  [key]
-# 2 adding KMS server [s8.uk.to / s9.uk.to] updated links ==> https://kms.msguides.com/
+## 2 adding KMS server [s8.uk.to / s9.uk.to] updated links ==> https://kms.msguides.com/
     slmgr /skms s8.uk.to
-# 3 setting KEY
+## 3 setting KEY
     slmgr /ato 
-# 4  [again wait 1/2 min]
+### 4  [again wait 1/2 min]
     slmgr /ato 
 
 :)
