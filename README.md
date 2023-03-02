@@ -22,6 +22,7 @@
 # 1 open cmd as admin and run :
     slmgr /ipk  [key]
 # 2 adding KMS server [s8.uk.to / s9.uk.to]
+https://kms.msguides.com/
     slmgr /skms s8.uk.to
 # 3 setting KEY
     slmgr /ato 
