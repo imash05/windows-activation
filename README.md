@@ -17,3 +17,10 @@
 | Enterprise 2015 LTSB N |	2F77B-TNFGY-69QQF-B8YKP-D69TJ |
 | Enterprise 2016 LTSB |	DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ |
 | Enterprise 2016 LTSB N |	QFFDN-GRT3P-VKWWX-X7T3R-8B639 |
+
+
+# 1 open cmd as admin and run :
+    ‛slmgr /ipk  [key]‛
+2. slmgr /skms s8.uk.to = KMS server
+3. slmgr /ato 
+4. slmgr /ato [again wait 1/2 min]
