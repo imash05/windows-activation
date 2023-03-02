@@ -20,7 +20,12 @@
 
 
 # 1 open cmd as admin and run :
-    ‛slmgr /ipk  [key]‛
-2. slmgr /skms s8.uk.to = KMS server
-3. slmgr /ato 
-4. slmgr /ato [again wait 1/2 min]
+    slmgr /ipk  [key]
+# 2 adding KMS server [s8.uk.to / s9.uk.to]
+    slmgr /skms s8.uk.to
+# 3 setting KEY
+    slmgr /ato 
+# 4  [again wait 1/2 min]
+    slmgr /ato 
+
+:)
